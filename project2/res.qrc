@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>firefly.mp3</file>
+        <file>patches.mp3</file>
+        <file>southsea.mp3</file>
+        <file>boar.mp3</file>
+        <file>Main_Title.ogg</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>janna.png</file>
+        <file>hbg.jpg</file>
+        <file>biblethump.png</file>
+        <file>firefly.png</file>
+        <file>patches.png</file>
+        <file>valeera.png</file>
+        <file>southsea.png</file>
+        <file>boar.png</file>
+        <file>guldan.png</file>
+        <file>knife.png</file>
+        <file>win.jpg</file>
+        <file>lose.jpg</file>
+    </qresource>
+</RCC>
